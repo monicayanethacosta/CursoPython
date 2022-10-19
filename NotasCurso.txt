@@ -1,0 +1,2 @@
+Python es un lenguaje excelentepara el trabajo numerico.
+Python maneja numeros enteros, flotantes y complejos.  
